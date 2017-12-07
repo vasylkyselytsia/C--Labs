@@ -1,0 +1,9 @@
+E:\Study\4_Course(1)\C#\Lab2\Lab2\bin\Debug\netcoreapp1.1\Lab2.deps.json
+E:\Study\4_Course(1)\C#\Lab2\Lab2\bin\Debug\netcoreapp1.1\Lab2.runtimeconfig.json
+E:\Study\4_Course(1)\C#\Lab2\Lab2\bin\Debug\netcoreapp1.1\Lab2.runtimeconfig.dev.json
+E:\Study\4_Course(1)\C#\Lab2\Lab2\bin\Debug\netcoreapp1.1\Lab2.dll
+E:\Study\4_Course(1)\C#\Lab2\Lab2\bin\Debug\netcoreapp1.1\Lab2.pdb
+E:\Study\4_Course(1)\C#\Lab2\Lab2\obj\Debug\netcoreapp1.1\Lab2.AssemblyInfo.cs
+E:\Study\4_Course(1)\C#\Lab2\Lab2\obj\Debug\netcoreapp1.1\Lab2.dll
+E:\Study\4_Course(1)\C#\Lab2\Lab2\obj\Debug\netcoreapp1.1\Lab2.pdb
+E:\Study\4_Course(1)\C#\Lab2\Lab2\obj\Debug\netcoreapp1.1\Lab2.csprojResolveAssemblyReference.cache
