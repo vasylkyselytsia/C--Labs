@@ -1,0 +1,20 @@
+F:\programming\gorbatenko\lab1\lab1.2\bin\Debug\lab1.2.exe.config
+C:\Users\Zver\YandexDisk\lab1\lab1.2\bin\Debug\lab1.2.exe.config
+C:\Users\Zver\YandexDisk\lab1\lab1.2\bin\Debug\lab1.2.exe
+C:\Users\Zver\YandexDisk\lab1\lab1.2\bin\Debug\lab1.2.pdb
+C:\Users\Zver\YandexDisk\lab1\lab1.2\obj\Debug\lab1.2.exe
+C:\Users\Zver\YandexDisk\lab1\lab1.2\obj\Debug\lab1.2.pdb
+G:\C#\lab1 (1)\lab1\lab1.2\bin\Debug\lab1.2.exe.config
+G:\C#\lab1 (1)\lab1\lab1.2\obj\Debug\lab1.2.exe
+G:\C#\lab1 (1)\lab1\lab1.2\obj\Debug\lab1.2.pdb
+G:\C#\lab1 (1)\lab1\lab1.2\bin\Debug\lab1.2.exe
+G:\C#\lab1 (1)\lab1\lab1.2\bin\Debug\lab1.2.pdb
+G:\C#\lab1 (1)\lab1\lab1.2\obj\Debug\lab1.2.csprojResolveAssemblyReference.cache
+G:\C#\lab_2\2\bin\Debug\lab1.2.exe.config
+G:\C#\lab_2\2\obj\Debug\lab1.2.exe
+G:\C#\lab_2\2\obj\Debug\lab1.2.pdb
+G:\C#\lab_2\2\obj\Debug\lab1.2.csprojResolveAssemblyReference.cache
+G:\C#\lab_3\3\bin\Debug\lab1.2.exe.config
+G:\C#\lab_3\3\obj\Debug\lab1.2.exe
+G:\C#\lab_3\3\obj\Debug\lab1.2.pdb
+G:\C#\lab_3\3\obj\Debug\lab1.2.csprojResolveAssemblyReference.cache
